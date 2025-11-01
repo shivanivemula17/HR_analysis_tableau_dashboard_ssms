@@ -88,6 +88,10 @@ By using the AdventureWorks 2022 database, I gained experience in working with r
 
 <hr>
 
+<p align="center">
+  <img src="Screenshot 2025-11-01 162603.png" alt="Electric Vehicle Dashboard Screenshot" width="800">
+</p>
+
 <h2>🧾 Author</h2>
 <p>
 👩‍💻 <b>Shivani Vemula</b><br>
