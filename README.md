@@ -74,7 +74,7 @@ This dashboard is designed to provide a data-driven view for HR teams and manage
 
 <h2>🌐 Tableau Public Link</h2>
 <p>
-🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/salesanalysis_17602571768490/Overview" target="_blank">View HR Analysis Dashboard on Tableau Public</a>  
+🔗 <a href="https://public.tableau.com/app/profile/shivani.vemula2719/viz/HRanalysisdashboard_17594977020540/Dashboard1" target="_blank">View HR Analysis Dashboard on Tableau Public</a>  
 <br>
 </p>
 
